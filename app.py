@@ -22,7 +22,7 @@ def home():
       <body>
         <div class="card">
           <p class="tag">DEPLOYMENT SUCCESSFUL</p>
-          <h1>Hello from Azure App Service!</h1>
+          <h1>My First CI/CD Deployment!</h1>
           <p>This Python Flask application is running on Azure App Service.</p>
           <p>Use this lab to learn GitHub, GitHub Actions, CI/CD and Azure PaaS.</p>
           <p><a href="/health">Health endpoint</a></p>
